@@ -6,4 +6,6 @@ This repo is a python code for shopify products api using shopify private app,It
 - create new product
 - update existing product
 
+## requirements
+
 include your API keys in the key.json file
