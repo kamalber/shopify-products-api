@@ -1,0 +1,5 @@
+{
+    "api_key": "your api key",
+    "api_secret": "your api secret ",
+    "store": "your store name , if your store is astore.myshopify.com , only put the astore"
+}
